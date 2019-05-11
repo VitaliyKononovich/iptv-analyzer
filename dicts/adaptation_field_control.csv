@@ -1,0 +1,5 @@
+"value1","value2","range","description"
+"0","0","False","Reserved for future use by ISO/IEC"
+"1","1","False","No adaptation_field, payload only"
+"2","2","False","Adaptation_field only, no payload"
+"3","3","False","Adaptation_field followed by payload"
