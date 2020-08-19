@@ -6,4 +6,4 @@ Use **multicast_reader.py** file if you want to subscribe and analyze live multi
 
 Use **pcap_reader.py** if you want analyze multicust IPTV stream dumped into Wireshark pcap-format.
 
-Use **multicast_reader.py** file if you want analyze multicust IPTV stream recorded into video MPEG TS-file.
+Use **tsfile_reader.py** file if you want analyze multicust IPTV stream recorded into video MPEG TS-file.
